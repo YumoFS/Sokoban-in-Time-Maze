@@ -1,6 +1,8 @@
 #   Rule Book of Sokoban in Time Maze
 STM 游戏规则书
 
+（注：本项目基于mac系统开发，Windows可体验Sokoban文件夹中的极简基础逻辑版本）
+
 一、迷宫地图（Maze’s Map）
 迷宫地图由不超过 10*10 的格子组成，这些格子上会被放置各种对象（Object）。并且，
 地图边界的一圈格子必须被放置固定箱或逃生点。每张地图有且仅有一个角色（PC）、
