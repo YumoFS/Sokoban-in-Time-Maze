@@ -1,4 +1,4 @@
-#Rule Book of Sokoban in Time Maze
+#   Rule Book of Sokoban in Time Maze
 STM 游戏规则书
 
 一、迷宫地图（Maze’s Map）
